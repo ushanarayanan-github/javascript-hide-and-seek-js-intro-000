@@ -21,5 +21,3 @@ function deepestChild() {
   }
   return a;
 }
-
-
